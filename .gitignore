@@ -39,6 +39,10 @@ vignettes/*.pdf
 .Renviron
 
 # Data Files
+<<<<<<< HEAD
 *.csv
 *.xls
 *.matlab
+=======
+yellow*.csv
+>>>>>>> main
